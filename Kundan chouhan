@@ -1,0 +1,147 @@
+{
+    "basics": {
+        "name": "Kundan Chouhan"
+        "label": "Student",
+        "picture": "https://iiitkota.ac.in/static/media/gaurav.37dd1b4e.png",
+        "email": "2021kuec2020@iiitkota.ac.in",
+        "phone": "+916376251453",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication  engineering. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Pal Village",
+            "postalCode": "342001",
+            "city": "Jodhpur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": "https://www.twitter.com/"
+            },
+            {
+                "network": "Github",
+                "username": "Kundanchouhan1",
+                "url": "https://www.github.com/Kundanchouhan1"
+            },
+            {
+                "network": "linkedin",
+                "username": "KUNDAN CHOUHAN",
+                "url": "https://www.linkedin.com/in/kundan-chouhan-955b8018b/"
+            },
+            {
+                "network": "Instagram",
+                "username": "kundan_chouhan01",
+                "url": "https://instagram.com/kundan_chouhan01"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "7.1",
+            "courses": [
+                "Electronics and engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Playing",
+            "keywords": [
+                "Cricket"
+            ]
+        },
+        {
+            "name": "",
+            "keywords": [
+                "",
+                ""
+            ]
+        }
+    ]
+}
